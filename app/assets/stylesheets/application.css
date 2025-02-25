@@ -13,3 +13,30 @@
  *= require_tree .
  *= require_self
  */
+/* Exemple de CSS personnalisé */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.article-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.article-title {
+  font-size: 24px;
+  color: #333;
+}
+
+.article-content {
+  font-size: 16px;
+  color: #666;
+}
